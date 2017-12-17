@@ -57,10 +57,6 @@ namespace voiture
             public void démarrer()
         {
             vitesse = 10;
-        }
-            public void accélérer()
-        {
-
-        }
+	}
     }
 }
